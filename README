@@ -4,4 +4,6 @@ All you have to do is include the tag-hinting.js in your file and write the foll
 	<script type="text/html">arr = ['your','tag','values']</script>
 
 Also it requires a html div to display the results.
-	<div id="hintwords"></div>
+	<div id="hintwords" style="display:none"></div>
+
+You can add style to the above div.
