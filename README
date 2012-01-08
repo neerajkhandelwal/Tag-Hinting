@@ -3,7 +3,15 @@ This is a Javascript library for tag hinting which you might have seen on variou
 All you have to do is include the tag-hinting.js in your file and write the following syntax:
 	<script type="text/html">arr = ['your','tag','values']</script>
 
+
 Also it requires a html div to display the results.
 	<div id="hintwords" style="display:none"></div>
 
 You can add style to the above div.
+
+
+There is a example attached to this repo. Please see it.
+
+	hint(this, event);
+
+hint function works on either keypress, keyup, keydown. These argument are written as it is.
