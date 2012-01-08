@@ -15,3 +15,5 @@ There is a example attached to this repo. Please see it.
 	hint(this, event);
 
 hint function works on either keypress, keyup, keydown. These argument are written as it is.
+
+Read http://neerajkhandelwal.blogspot.com/2012/01/tag-hinting-javascript-library.html for more info on it.
